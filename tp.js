@@ -17,3 +17,18 @@ console.log(bonjour + " " + tout_le_monde);
 
 // Afficher le résultat 
 node tp.js
+
+
+// Constante PI
+const PI = 3.14159;
+
+//Rayon
+let rayon = 12;
+
+// Calcul de la surface du cercle (formule : π × r²)
+let surface = PI * (rayon ** 2);
+
+console.log("La surface du cercle est de", surface, "cm²");
+
+//résultat 
+node tp.js
