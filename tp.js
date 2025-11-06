@@ -6,7 +6,7 @@
 > console.log("La valeur de c est :", c);
 
 //affichage résultat 
-node.js
+node tp.js
 
 // variable Hello et World 
 let bonjour = "Hello";
