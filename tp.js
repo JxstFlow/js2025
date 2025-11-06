@@ -1,9 +1,9 @@
-let a = 12;
-let b = 45;
+// variable Hello et World 
+let bonjour = "Hello";
+let tout_le_monde = "World";
 
-let c = a + b;
+// Concaténation et affichage dans la console
+console.log(bonjour + " " + tout_le_monde);
 
-console.log("La valeur de c est :", c);
-
-// Affichage du résultat
+// Afficher le résultat 
 node tp.js
